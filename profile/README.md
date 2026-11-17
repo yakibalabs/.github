@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://yakiba.ai">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
-      <img src="logo-light.svg" alt="Yakiba: AI code security audits" width="380">
+      <source media="(prefers-color-scheme: dark)" srcset="wordmark-dark.svg">
+      <img src="wordmark-light.svg" alt="Yakiba" width="240">
     </picture>
   </a>
 </p>
